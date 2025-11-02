@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100095899677",
+    "project_id": "chromix-660d8",
+    "storage_bucket": "chromix-660d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100095899677:android:7ea968416157aebb8a2ef4",
+        "android_client_info": {
+          "package_name": "com.rstays.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpYsHbFUmymCxGLspwmHxa5AKB2TAqgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100095899677:android:872b113384ee32f28a2ef4",
+        "android_client_info": {
+          "package_name": "com.chromix.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpYsHbFUmymCxGLspwmHxa5AKB2TAqgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
